@@ -1,2 +1,2 @@
 #!/bin/bash
-chmon -rwxr-x--x hello
+chmon 640 hello
